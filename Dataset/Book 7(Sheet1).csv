@@ -1,0 +1,31 @@
+﻿RowID,OrderID,OrderDate,ShipDate,ShipMode,CustomerID,FirstName,LastName,Segment,Country,City,State,PostalCode,Region,ProductID,Category,SubCategory,ProductName,Sales,Quantity,Discount,Profit
+1,ORD-1001,1/3/2025,1/6/2025,Standard Class,C001,John,Smith,Consumer,USA,New York,New York,10001,East,P001,Furniture,Chairs,Office Chair,250,2,0.1,40
+2,ORD-1002,1/5/2025,1/7/2025,Second Class,C002,Emma,Johnson,Corporate,USA,Chicago,Illinois,60601,Central,P002,Technology,Phones,Smartphone X,800,1,0.05,120
+3,ORD-1003,1/8/2025,1/10/2025,First Class,C003,Michael,Brown,Home Office,USA,Dallas,Texas,75201,Central,P003,Office Supplies,Binders,Ring Binder,45,5,0,15
+4,ORD-1004,1/10/2025,1/14/2025,Standard Class,C004,Sophia,Davis,Consumer,USA,Seattle,Washington,98101,West,P004,Technology,Laptops,Laptop Pro,1500,1,0.1,250
+5,ORD-1005,1/12/2025,1/15/2025,Standard Class,C005,Liam,Wilson,Corporate,USA,Miami,Florida,33101,South,P005,Furniture,Tables,Conference Table,600,1,0.15,90
+6,ORD-1006,1/15/2025,1/18/2025,Second Class,C006,Olivia,Moore,Consumer,USA,Boston,Massachusetts,2108,East,P006,Office Supplies,Paper,Printer Paper Pack,35,10,0,12
+7,ORD-1007,1/18/2025,1/20/2025,First Class,C007,Noah,Taylor,Home Office,USA,Denver,Colorado,80201,West,P007,Technology,Accessories,Wireless Mouse,60,3,0.05,18
+8,ORD-1008,1/20/2025,1/24/2025,Standard Class,C008,Ava,Anderson,Consumer,USA,Phoenix,Arizona,85001,West,P008,Furniture,Bookcases,Wooden Bookcase,320,2,0.1,50
+9,ORD-1009,1/22/2025,1/25/2025,Second Class,C009,James,Thomas,Corporate,USA,Atlanta,Georgia,30301,South,P009,Technology,Printers,Laser Printer,450,1,0.05,80
+10,ORD-1010,1/25/2025,1/28/2025,Standard Class,C010,Isabella,Jackson,Consumer,USA,Los Angeles,California,90001,West,P010,Office Supplies,Storage,Storage Box,75,4,0,20
+11,ORD-1011,1/27/2025,1/30/2025,First Class,C011,William,White,Consumer,USA,Portland,Oregon,97201,West,P011,Furniture,Chairs,Executive Chair,420,1,0.1,75
+12,ORD-1012,2/1/2025,2/4/2025,Standard Class,C012,Mia,Harris,Corporate,USA,Houston,Texas,77001,Central,P012,Technology,Phones,Business Phone,650,2,0.15,100
+13,ORD-1013,2/3/2025,2/5/2025,Second Class,C013,Benjamin,Martin,Home Office,USA,Detroit,Michigan,48201,Central,P013,Office Supplies,Labels,Address Labels,25,8,0,8
+14,ORD-1014,2/5/2025,2/9/2025,Standard Class,C014,Charlotte,Lee,Consumer,USA,San Diego,California,92101,West,P014,Technology,Accessories,USB Hub,40,5,0.05,10
+15,ORD-1015,2/7/2025,2/10/2025,First Class,C015,Lucas,Walker,Corporate,USA,Philadelphia,Pennsylvania,19101,East,P015,Furniture,Furnishings,Desk Lamp,95,3,0.1,15
+16,ORD-1016,2/9/2025,2/12/2025,Standard Class,C016,Amelia,Hall,Consumer,USA,Las Vegas,Nevada,88901,West,P016,Technology,Laptops,Gaming Laptop,1800,1,0.05,300
+17,ORD-1017,2/11/2025,2/14/2025,Second Class,C017,Henry,Allen,Home Office,USA,Charlotte,North Carolina,28201,South,P017,Office Supplies,Envelopes,Business Envelopes,30,6,0,9
+18,ORD-1018,2/14/2025,2/17/2025,Standard Class,C018,Evelyn,Young,Corporate,USA,Nashville,Tennessee,37201,South,P018,Furniture,Tables,Office Desk,520,2,0.1,85
+19,ORD-1019,2/16/2025,2/18/2025,First Class,C019,Alexander,King,Consumer,USA,Columbus,Ohio,43004,East,P019,Technology,Monitors,24 Inch Monitor,280,2,0.05,55
+20,ORD-1020,2/18/2025,2/21/2025,Standard Class,C020,Harper,Wright,Consumer,USA,San Jose,California,95101,West,P020,Office Supplies,Art,Marker Set,22,5,0,7
+21,ORD-1021,2/20/2025,2/23/2025,Standard Class,C021,Ethan,Scott,Corporate,USA,Austin,Texas,73301,Central,P021,Technology,Accessories,Keyboard,85,2,0.05,20
+22,ORD-1022,2/22/2025,2/25/2025,Second Class,C022,Grace,Green,Consumer,USA,Tampa,Florida,33601,South,P022,Furniture,Chairs,Visitor Chair,190,2,0.1,35
+23,ORD-1023,2/24/2025,2/27/2025,Standard Class,C023,Daniel,Baker,Home Office,USA,Cleveland,Ohio,44101,East,P023,Office Supplies,Paper,A4 Paper Pack,40,12,0,14
+24,ORD-1024,2/26/2025,3/1/2025,First Class,C024,Chloe,Adams,Consumer,USA,Sacramento,California,94203,West,P024,Technology,Phones,Smartphone Y,920,1,0.1,160
+25,ORD-1025,3/1/2025,3/4/2025,Standard Class,C025,Matthew,Nelson,Corporate,USA,Raleigh,North Carolina,27601,South,P025,Furniture,Tables,Study Table,350,1,0.05,65
+26,ORD-1026,3/3/2025,3/6/2025,Second Class,C026,Lily,Carter,Consumer,USA,Orlando,Florida,32801,South,P026,Office Supplies,Storage,Plastic Storage Bin,55,4,0,15
+27,ORD-1027,3/5/2025,3/8/2025,Standard Class,C027,David,Mitchell,Home Office,USA,Kansas City,Missouri,64101,Central,P027,Technology,Monitors,27 Inch Monitor,340,2,0.05,70
+28,ORD-1028,3/7/2025,3/10/2025,First Class,C028,Ella,Perez,Consumer,USA,Minneapolis,Minnesota,55401,Central,P028,Furniture,Furnishings,Floor Lamp,110,2,0.1,22
+29,ORD-1029,3/10/2025,3/13/2025,Standard Class,C029,Joseph,Roberts,Corporate,USA,St. Louis,Missouri,63101,Central,P029,Office Supplies,Binders,Lever Arch File,60,6,0,18
+30,ORD-1030,3/12/2025,3/15/2025,Second Class,C030,Hannah,Turner,Consumer,USA,Baltimore,Maryland,21201,East,P030,Technology,Printers,Inkjet Printer,280,1,0.1,45
